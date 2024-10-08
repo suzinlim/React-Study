@@ -1,10 +1,17 @@
 {
   "files": {
-    "main.js": "/React-Study/static/js/main.0fb049f6.js",
+    "main.css": "/React-Study/static/css/main.e2759bbe.css",
+    "main.js": "/React-Study/static/js/main.bb9cf317.js",
+    "static/media/slick.svg": "/React-Study/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Study/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Study/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Study/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/React-Study/index.html",
-    "main.0fb049f6.js.map": "/React-Study/static/js/main.0fb049f6.js.map"
+    "main.e2759bbe.css.map": "/React-Study/static/css/main.e2759bbe.css.map",
+    "main.bb9cf317.js.map": "/React-Study/static/js/main.bb9cf317.js.map"
   },
   "entrypoints": [
-    "static/js/main.0fb049f6.js"
+    "static/css/main.e2759bbe.css",
+    "static/js/main.bb9cf317.js"
   ]
 }
